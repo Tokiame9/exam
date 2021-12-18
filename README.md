@@ -1,10 +1,19 @@
 # 时间待办（备忘录）
+## 使用框架：
+      react 
+## hook：
+      useEffect
+      useStates
+      useRef
+## 插件：
+      npm creat-react-app
+      react-router-dom@5
+## 具体模块：
+ 准备任务
 
-#### 准备任务
+ 进行任务
 
-#### 进行任务
-
-#### 完成任务
+ 完成任务
 
 ##### 使用方法 ：
 
